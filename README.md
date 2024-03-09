@@ -5,14 +5,28 @@ Welcome to the ultimate Hack The Box(HTB)🧑‍💻 cheat sheet for newbie hack
 # Challenges
 
 <table>
+
 <tr>
+<th>Sl.No</th>
 <th>Challenges🎯</th>
 <th>Rewards✨🎉✨</th>
 <th>Code🧑‍💻</th>
 </tr>
+
 <tr>
+<td>01</td>
 <td>Meow</td>
-<td><a href="https://github.com/theNareshofficial/HTB-Cheat-Sheet/blob/main/challenges/Meow.md">Meow Achievements</a></td>
+<td><a href="https://www.hackthebox.com/achievement/machine/1868506/394">Meow Achievements</a></td>
 <td><a href="https://github.com/theNareshofficial/HTB-Cheat-Sheet/blob/main/challenges/Meow.md">code</a></td>
 </tr>
+
+<tr>
+<td>02</td>
+<td>Coming soooon</td>
+<td><a href="394">Coming soooon</a></td>
+<td><a href="#">Coming soooon</a></td>
+</tr>
+
 </table>
+
+<h1>ThankYou💝</h1>
