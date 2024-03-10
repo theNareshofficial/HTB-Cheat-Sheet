@@ -1,8 +1,8 @@
-# HTB-Cheat-Sheet
+# HTB-Cheat-Sheet📖
 
 Welcome to the ultimate Hack The Box(HTB)🧑‍💻 cheat sheet for newbie hackers🥷! This repo will show you how to crack easy challenges and have a blast along the way. If you like what you see, don't forget to give star⭐ this repo and follow me for more awesome hacking stuff. I'm always adding new challenges and tips, so stay tuned and enjoy the ride🤩!!!
 
-# Challenges
+# Challenges🎯
 
 <table>
 
@@ -29,4 +29,4 @@ Welcome to the ultimate Hack The Box(HTB)🧑‍💻 cheat sheet for newbie hack
 
 </table>
 
-<h1>ThankYou💝</h1>
+<h1 align="center">ThankYou🎉</h1>
