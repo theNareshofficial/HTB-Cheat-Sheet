@@ -14,17 +14,6 @@ In the first tier, you will gain essential skills in the world of cybersecurity 
  
 <h1 align='center'>Fawn Machine Pwned🎯</h1>
 
-## Learning outcome📖
-<p>
-In the first tier, you will gain essential skills in the world of cybersecurity pen-testing. You'll start by learning how to connect to various services, such as FTP, SMB, Telnet, Rsync, and RDP anonymously. Next, you'll discover the power of Nmap, a valuable tool for identifying open ports on target systems, allowing you to assess their vulnerabilities. Lastly, you'll explore connecting to a MongoDB server, adding a valuable layer to your penetration testing knowledge. This tier will lay a strong foundation for your journey into the realm of cybersecurity.
-</p>
-
-<ul>
-<li>✅Learn how to connect FTP, SMB, Telnet, Rsync and RDP anonymously.</li>
-<li>✅Learn how to use Nmap to identify open ports.</li>
-<li>✅Learn how to connect to a MongoDB server.</li>
-<ul>
-
 <h4>1) What does the 3-letter acronym FTP stand for?
 </h4>
 
