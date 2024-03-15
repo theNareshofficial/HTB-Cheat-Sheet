@@ -1,5 +1,5 @@
-<img src="https://www.hackthebox.eu/storage/avatars/b64f85071e626e4cc2272d54332e4131.png" >
-<h1 align='center'>Fawn Machine Pwned🎯</h1>
+<img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO_QwBJGGFCgXwdFGEiYEQDflMYIzhtrJR-g&usqp=CAU" alt="no image">
+<h1 align='center'>Dancing Machine Pwned🎯</h1>
 
 ## Learning outcome📖
 <p>
@@ -11,8 +11,8 @@ In the first tier, you will gain essential skills in the world of cybersecurity 
 <li>✅Learn how to use Nmap to identify open ports.</li>
 <li>✅Learn how to connect to a MongoDB server.</li>
 <ul>
- 
-<h1 align='center'>Fawn Machine Pwned🎯</h1>
+<br>
+<h1 align='center'>Dancing Machine Pwned🎯</h1>
 
 ## Learning outcome📖
 <p>
@@ -25,85 +25,60 @@ In the first tier, you will gain essential skills in the world of cybersecurity 
 <li>✅Learn how to connect to a MongoDB server.</li>
 <ul>
 
-<h4>1) What does the 3-letter acronym FTP stand for?
+<h4>1) What does the 3-letter acronym SMB stand for?
 </h4>
 
 ```console
-File Transfer Protocol
+Server Message Block
 ```
 
-<h4>2) Which port does the FTP service listen on usually?
+<h4>2)What port does SMB use to operate at?
 </h4>
 
 ```console
-21
+445
 ```
 
-<h4>3) What acronym is used for the secure version of FTP?
+<h4>3) What is the service name for port 445 that came up in our Nmap scan?
 </h4>
 
 ```console
-SFTP
+miocrosoft-ds
 ```
 
-<h4>4) What is the command we can use to send an ICMP echo request to test our connection to the target?</h4>
-
-```console
-Ping
-```
-
-<h4>5) From your scans, what version is FTP running on the target?
+<h4>4) What is the 'flag' or 'switch' that we can use with the smbclient utility to 'list' the available shares on Dancing?
 </h4>
 
 ```console
-vsftpd 3.0.3
+-L
 ```
 
-<h4>6) From your scans, what OS type is running on the target?
+<h4>5) How many shares are there on Dancing?
 </h4>
 
 ```console
-Unix
+4
 ```
 
-<h4>7) What is the command we need to run in order to display the 'ftp' client help menu?</h4>
+<h4>6) What is the name of the share we are able to access in the end with a blank password?
+</h4>
 
 ```console
-ftp -h
+WorkShares
 ```
 
-
-<h4>8) What is username that is used over FTP when you want to log in without having an account?</h4>
-
-```console
-anonymous
-```
-
-
-<h4>9) What is the response code we get for the FTP message 'Login successful'?</h4>
-
-```console
-230
-```
-
-<h4>10) There are a couple of commands we can use to list the files and directories available on the FTP server. One is dir. What is the other that is a common way to list files on a Linux system.</h4>
-
-```console
-ls
-```
-
-
-<h4>11) What is the command used to download the file we found on the FTP server?</h4>
+<h4>7) What is the command we can use within the SMB shell to download the files we find?
+</h4>
 
 ```console
 get
 ```
 
-
-<h4>Submit root flag</h4>
+<h4>8) Submit root flag
+</h4>
 
 ```console
-035db21c881520061c53e0536e44f815
+5f61c10dffbc77a704d76016a22f1664
 ```
 
 <h1 align="center">ThankYou🎉</h1>
