@@ -27,9 +27,18 @@ Welcome to the ultimate Hack The Box(HTB)🧑‍💻 cheat sheet for newbie hack
 <td><a href="https://github.com/theNareshofficial/HTB-Cheat-Sheet/blob/main/challenges/Fawn.md">Code</a></td>
 </tr>
 
+
 <tr>
 <td>03</td>
-<td>Coming soooon</td>
+<td>Dancing</td>
+<td><a href="https://www.hackthebox.com/achievement/machine/1868506/395">Dancing Achievements</a></td>
+<td><a href="https://github.com/theNareshofficial/HTB-Cheat-Sheet/blob/main/challenges/Dancing.md">Code</a></td>
+</tr>
+
+
+<tr>
+<td>04</td>
+<td>Coming Sooon</td>
 <td><a href="#">Coming soooon</a></td>
 <td><a href="#">Code</a></td>
 </tr>
