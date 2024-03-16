@@ -15,14 +15,14 @@ Welcome to the ultimate Hack The Box(HTB)🧑‍💻 cheat sheet for newbie hack
 
 <tr>
 <td>01</td>
-<td>Meow</td>
+<td>Meow😺</td>
 <td><a href="https://www.hackthebox.com/achievement/machine/1868506/394">Meow Achievements</a></td>
 <td><a href="https://github.com/theNareshofficial/HTB-Cheat-Sheet/blob/main/challenges/Meow.md">code</a></td>
 </tr>
 
 <tr>
 <td>02</td>
-<td>Fawn</td>
+<td>Fawnd🦌</td>
 <td><a href="https://www.hackthebox.com/achievement/machine/1868506/393">Fawn Achievements</a></td>
 <td><a href="https://github.com/theNareshofficial/HTB-Cheat-Sheet/blob/main/challenges/Fawn.md">Code</a></td>
 </tr>
@@ -30,7 +30,7 @@ Welcome to the ultimate Hack The Box(HTB)🧑‍💻 cheat sheet for newbie hack
 
 <tr>
 <td>03</td>
-<td>Dancing</td>
+<td>Dancing💃</td>
 <td><a href="https://www.hackthebox.com/achievement/machine/1868506/395">Dancing Achievements</a></td>
 <td><a href="https://github.com/theNareshofficial/HTB-Cheat-Sheet/blob/main/challenges/Dancing.md">Code</a></td>
 </tr>
@@ -38,7 +38,15 @@ Welcome to the ultimate Hack The Box(HTB)🧑‍💻 cheat sheet for newbie hack
 
 <tr>
 <td>04</td>
-<td>Coming Sooon</td>
+<td>Redeemer⚡</td>
+<td><a href="#">Redeemer Achievements</a></td>
+<td><a href="https://github.com/theNareshofficial/HTB-Cheat-Sheet/blob/main/challenges/Redeemer.md">Code</a></td>
+</tr>
+
+
+<tr>
+<td>05</td>
+<td>Coming Sooon⏳</td>
 <td><a href="#">Coming soooon</a></td>
 <td><a href="#">Code</a></td>
 </tr>
