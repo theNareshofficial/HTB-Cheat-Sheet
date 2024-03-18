@@ -46,6 +46,13 @@ Welcome to the ultimate Hack The Box(HTB)🧑‍💻 cheat sheet for newbie hack
 
 <tr>
 <td>05</td>
+<td>Appointment🔔</td>
+<td><a href="#">Coming soooon</a></td>
+<td><a href="https://github.com/theNareshofficial/HTB-Cheat-Sheet/blob/main/challenges/Appointment.md">Code</a></td>
+</tr>
+
+<tr>
+<td>06</td>
 <td>Coming Sooon⏳</td>
 <td><a href="#">Coming soooon</a></td>
 <td><a href="#">Code</a></td>
