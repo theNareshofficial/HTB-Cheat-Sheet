@@ -53,14 +53,21 @@ Welcome to the ultimate Hack The Box(HTB)🧑‍💻 cheat sheet for newbie hack
 
 <tr>
 <td>06</td>
-<td>Sequel 🏦</td>
+<td>Sequel🏦</td>
 <td><a href="#">Sequel Achievements</a></td>
 <td><a href="https://github.com/theNareshofficial/HTB-Cheat-Sheet/blob/main/challenges/Sequel.md">Code</a></td>
 </tr>
 
-
 <tr>
 <td>07</td>
+<td>Crocodile🐊</td>
+<td><a href="#">Crocodile Achievements</a></td>
+<td><a href="https://github.com/theNareshofficial/HTB-Cheat-Sheet/blob/main/challenges/Crocodile.md">Code</a></td>
+</tr>
+
+
+<tr>
+<td>08</td>
 <td>Coming Sooon⏳</td>
 <td><a href="#">Coming soooon</a></td>
 <td><a href="#">Code</a></td>
