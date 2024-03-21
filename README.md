@@ -27,7 +27,6 @@ Welcome to the ultimate Hack The Box(HTB)🧑‍💻 cheat sheet for newbie hack
 <td><a href="https://github.com/theNareshofficial/HTB-Cheat-Sheet/blob/main/challenges/Fawn.md">Code</a></td>
 </tr>
 
-
 <tr>
 <td>03</td>
 <td>Dancing💃</td>
@@ -35,14 +34,12 @@ Welcome to the ultimate Hack The Box(HTB)🧑‍💻 cheat sheet for newbie hack
 <td><a href="https://github.com/theNareshofficial/HTB-Cheat-Sheet/blob/main/challenges/Dancing.md">Code</a></td>
 </tr>
 
-
 <tr>
 <td>04</td>
 <td>Redeemer⚡</td>
 <td><a href="#">Redeemer Achievements</a></td>
 <td><a href="https://github.com/theNareshofficial/HTB-Cheat-Sheet/blob/main/challenges/Redeemer.md">Code</a></td>
 </tr>
-
 
 <tr>
 <td>05</td>
@@ -54,17 +51,16 @@ Welcome to the ultimate Hack The Box(HTB)🧑‍💻 cheat sheet for newbie hack
 <tr>
 <td>06</td>
 <td>Sequel🏦</td>
-<td><a href="#">Sequel Achievements</a></td>
+<td><a href="https://www.hackthebox.com/achievement/machine/1868506/403">Sequel Achievements</a></td>
 <td><a href="https://github.com/theNareshofficial/HTB-Cheat-Sheet/blob/main/challenges/Sequel.md">Code</a></td>
 </tr>
 
 <tr>
 <td>07</td>
 <td>Crocodile🐊</td>
-<td><a href="#">Crocodile Achievements</a></td>
+<td><a href="https://www.hackthebox.com/achievement/machine/1868506/404">Crocodile Achievements</a></td>
 <td><a href="https://github.com/theNareshofficial/HTB-Cheat-Sheet/blob/main/challenges/Crocodile.md">Code</a></td>
 </tr>
-
 
 <tr>
 <td>08</td>
